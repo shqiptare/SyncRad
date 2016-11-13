@@ -1,3 +1,2 @@
 # SyncRad
-Run the example with
-./SyncRad test.gdml my.mac
+Run the example with -----> ./SyncRad test.gdml my.mac
